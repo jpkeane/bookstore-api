@@ -1,4 +1,5 @@
 ## Bookstore API
+[![Build Status](https://codeship.com/projects/6ef78d80-a132-0133-f6b0-22cba843574f3/status?branch=master)](https://codeship.com/projects/128445)
 
 API written for EmberIgniter bookstore Ember client.
 
