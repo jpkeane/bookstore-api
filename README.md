@@ -6,7 +6,7 @@ API written for EmberIgniter bookstore Ember client.
 ### Deployment pipeline
 
 * Push to GitHub
-* Codeship CI
+* Codeship CI at https://codeship.com/projects/128445/
 * Deploy to http://cel-tut-bookstore-api.herokuapp.com
 
 ### Gem stack
