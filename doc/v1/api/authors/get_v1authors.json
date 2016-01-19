@@ -1,0 +1,45 @@
+{
+  "resource": "Authors",
+  "http_method": "GET",
+  "route": "/v1/authors",
+  "description": "GET /v1/authors",
+  "explanation": null,
+  "parameters": [
+    {
+      "required": true,
+      "name": "type",
+      "description": "      The type of the resource. Must be authors.\n"
+    },
+    {
+      "scope": "attributes",
+      "required": true,
+      "name": "name",
+      "description": "      The name of the Author.\n"
+    }
+  ],
+  "response_fields": [
+
+  ],
+  "requests": [
+    {
+      "request_method": "GET",
+      "request_path": "/v1/authors?type=authors",
+      "request_body": null,
+      "request_headers": {
+        "Content-Type": "application/vnd.api+json"
+      },
+      "request_query_parameters": {
+        "type": "authors"
+      },
+      "request_content_type": "application/vnd.api+json",
+      "response_status": 200,
+      "response_status_text": "OK",
+      "response_body": "{\"data\":[{\"id\":\"56\",\"type\":\"authors\",\"links\":{\"self\":\"http://example.org/v1/authors/56\"},\"attributes\":{\"name\":\"Lula Jones\"}},{\"id\":\"57\",\"type\":\"authors\",\"links\":{\"self\":\"http://example.org/v1/authors/57\"},\"attributes\":{\"name\":\"Gunner Waelchi\"}}],\"meta\":{\"record-count\":2},\"links\":{\"first\":\"http://example.org/v1/authors?page%5Bnumber%5D=1\\u0026page%5Bsize%5D=10\",\"last\":\"http://example.org/v1/authors?page%5Bnumber%5D=1\\u0026page%5Bsize%5D=10\"}}",
+      "response_headers": {
+        "Content-Type": "application/vnd.api+json"
+      },
+      "response_content_type": "application/vnd.api+json",
+      "curl": null
+    }
+  ]
+}

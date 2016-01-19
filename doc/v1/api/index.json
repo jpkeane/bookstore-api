@@ -1,0 +1,23 @@
+{
+  "resources": [
+    {
+      "name": "Authors",
+      "examples": [
+        {
+          "description": "GET /v1/authors",
+          "link": "authors/get_v1authors.json",
+          "groups": "all",
+          "route": "/v1/authors",
+          "method": "get"
+        },
+        {
+          "description": "GET /v1/authors/:id",
+          "link": "authors/get_v1authors:id.json",
+          "groups": "all",
+          "route": "/v1/authors/:id",
+          "method": "get"
+        }
+      ]
+    }
+  ]
+}

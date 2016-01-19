@@ -1,0 +1,45 @@
+{
+  "resource": "Authors",
+  "http_method": "GET",
+  "route": "/v1/authors/:id",
+  "description": "GET /v1/authors/:id",
+  "explanation": null,
+  "parameters": [
+    {
+      "required": true,
+      "name": "type",
+      "description": "      The type of the resource. Must be authors.\n"
+    },
+    {
+      "scope": "attributes",
+      "required": true,
+      "name": "name",
+      "description": "      The name of the Author.\n"
+    }
+  ],
+  "response_fields": [
+
+  ],
+  "requests": [
+    {
+      "request_method": "GET",
+      "request_path": "/v1/authors/58?type=authors",
+      "request_body": null,
+      "request_headers": {
+        "Content-Type": "application/vnd.api+json"
+      },
+      "request_query_parameters": {
+        "type": "authors"
+      },
+      "request_content_type": "application/vnd.api+json",
+      "response_status": 200,
+      "response_status_text": "OK",
+      "response_body": "{\"data\":{\"id\":\"58\",\"type\":\"authors\",\"links\":{\"self\":\"http://example.org/v1/authors/58\"},\"attributes\":{\"name\":\"Shayne Bergnaum\"}}}",
+      "response_headers": {
+        "Content-Type": "application/vnd.api+json"
+      },
+      "response_content_type": "application/vnd.api+json",
+      "curl": null
+    }
+  ]
+}
