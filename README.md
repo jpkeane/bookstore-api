@@ -1,21 +1,26 @@
 ## Bookstore API
 
-API written for EmberIgniter bookstore ember client.
+API written for EmberIgniter bookstore Ember client.
 
-My standard Ember/Rails API stack:
+### Gem stack
 
-jsonapi-resources
-apitome
-rack-cors
+#### All envronments:
 
-rspec-rails
-factory_girl_rails
-faker
-rspec_api_documentation
-rubocop
+* jsonapi-resources
+* apitome
+* rack-cors
 
-shoulda-matchers
-coveralls
+#### Dev and Test:
+* rspec-rails
+* factory_girl_rails
+* faker
+* rspec_api_documentation
+* rubocop
 
-rails_12factor
-puma
+#### Test:
+* shoulda-matchers
+* coveralls
+
+#### Production:
+* rails_12factor
+* puma
