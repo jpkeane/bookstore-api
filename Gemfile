@@ -37,7 +37,7 @@ end
 
 group :test do
   # TDD Gems
-  gem 'shoulda-matchers', '~> 3.0'
+  gem 'shoulda-matchers', '3.0.1'
 
   # Code coverage Gems
   gem 'coveralls', require: false
