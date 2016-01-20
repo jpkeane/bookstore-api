@@ -275,6 +275,7 @@
         1,
         1,
         1,
+        1,
         null,
         null
       ],
@@ -286,7 +287,7 @@
         null,
         1,
         1,
-        0,
+        2,
         null,
         null,
         1,
@@ -302,13 +303,29 @@
         null,
         1,
         1,
-        0,
+        4,
         null,
         1,
         null,
         null,
         1,
-        6,
+        16,
+        null,
+        null,
+        null
+      ],
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/resources/v1/publishing_house_resource.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
         null,
         null,
         null
@@ -318,6 +335,12 @@
         null
       ],
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/models/author.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/models/publishing_house.rb": [
+        1,
         1,
         1,
         null
@@ -337,8 +360,14 @@
         null,
         1,
         null
+      ],
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1453247459
+    "timestamp": 1453250669
   }
 }

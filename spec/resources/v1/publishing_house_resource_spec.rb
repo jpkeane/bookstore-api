@@ -1,11 +1,11 @@
 module V1
-  RSpec.describe PublishingHouseResource do
+  RSpec.describe AuthorResource do
     let :creatable_fields do
-      [:name, :discount].sort
+      [:name].sort
     end
 
     subject do
-      described_class.new PublishingHouse.new, {}
+      described_class.new Author.new, {}
     end
 
     it 'has the expected creatable attributes' do
