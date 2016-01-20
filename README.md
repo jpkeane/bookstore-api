@@ -8,6 +8,7 @@ API written for EmberIgniter bookstore Ember client.
 
 * Push to GitHub
 * Codeship CI at https://codeship.com/projects/128445/
+* Code Coverage monitored at https://coveralls.io/github/jpkeane/bookstore-api
 * Deploy to http://cel-tut-bookstore-api.herokuapp.com
 * API Docs at http://cel-tut-bookstore-api.herokuapp.com/docs/v1
 
