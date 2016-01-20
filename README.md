@@ -1,6 +1,6 @@
 ## Bookstore API
 [![Coverage Status](https://coveralls.io/repos/github/jpkeane/bookstore-api/badge.svg?branch=master)](https://coveralls.io/github/jpkeane/bookstore-api?branch=master)
-[![Build Status](https://codeship.com/projects/6ef78d80-a132-0133-f6b0-22cba843574f3/status?branch=master)](https://codeship.com/projects/128445)
+[![Build Status](https://codeship.com/projects/6ef78d80-a132-0133-f6b0-22cba843574f/status?branch=master)](https://codeship.com/projects/128445)
 
 API written for EmberIgniter bookstore Ember client.
 
