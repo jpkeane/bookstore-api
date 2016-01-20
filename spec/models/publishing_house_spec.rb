@@ -22,7 +22,7 @@ RSpec.describe PublishingHouse, type: :model do
 
   describe 'factories' do
     it 'has valid factory' do
-      expect(FactoryGirl.create(:author)).to be_persisted
+      expect(FactoryGirl.create(:publishing_house)).to be_persisted
     end
   end
 end
