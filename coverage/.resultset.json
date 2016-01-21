@@ -338,7 +338,7 @@
         1,
         null,
         1,
-        null,
+        1,
         null,
         1,
         1,
@@ -380,7 +380,7 @@
         1,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/authors_controller.rb": [
         1,
         1,
         null,
@@ -396,7 +396,7 @@
         1,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/authors_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
         1,
         1,
         null,
@@ -409,6 +409,6 @@
         null
       ]
     },
-    "timestamp": 1453397835
+    "timestamp": 1453398060
   }
 }

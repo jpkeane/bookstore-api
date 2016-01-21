@@ -4,7 +4,7 @@ module V1
     attributes :title, :price
 
     has_one :author
-    #has_one :publisher
+    has_one :publisher, polymorphic: true
 
     class << self
       def creatable_fields(context)

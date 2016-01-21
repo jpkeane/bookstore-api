@@ -1,7 +1,7 @@
 module V1
   RSpec.describe BookResource do
     let :creatable_fields do
-      [:title, :price, :author].sort
+      [:title, :price, :author, :publisher].sort
     end
 
     subject do
