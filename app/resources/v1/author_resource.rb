@@ -3,6 +3,9 @@ module V1
   class AuthorResource < BaseResource
     attributes :name
 
+    has_many :published
+    has_many :books
+
     class << self
       def creatable_fields(context)
         super - [:rentals]

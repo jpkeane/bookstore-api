@@ -3,6 +3,8 @@ module V1
   class PublishingHouseResource < BaseResource
     attributes :name, :discount
 
+    has_many :published
+
     class << self
       def creatable_fields(context)
         super - [:rentals]
