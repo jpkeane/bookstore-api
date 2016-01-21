@@ -18,6 +18,10 @@ gem 'rack-cors'
 group :development do
   gem 'spring'
   gem 'spring-commands-rspec'
+
+  # Code style Gems
+  gem 'rubocop'
+  gem 'reek'
 end
 
 group :development, :test do
@@ -30,9 +34,6 @@ group :development, :test do
 
   # API TDD Gems
   gem 'rspec_api_documentation'
-
-  # Code style Gems
-  gem 'rubocop'
 end
 
 group :test do
