@@ -367,15 +367,20 @@
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/models/author.rb": [
         1,
         1,
+        1,
+        null,
+        1,
         null
       ],
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/models/publishing_house.rb": [
         1,
         1,
+        null,
+        1,
         1,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/books_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
         1,
         1,
         null,
@@ -397,13 +402,13 @@
         null,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/books_controller.rb": [
         1,
         1,
         null,
         null
       ]
     },
-    "timestamp": 1453364188
+    "timestamp": 1453397835
   }
 }
