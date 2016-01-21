@@ -1,7 +1,7 @@
 module V1
   RSpec.describe PublishingHouseResource do
     let :creatable_fields do
-      [:name, :discount].sort
+      [:name, :discount, :published].sort
     end
 
     subject do
