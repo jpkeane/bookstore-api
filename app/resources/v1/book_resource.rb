@@ -1,5 +1,5 @@
 module V1
-  # BookResource - JSONAPI Resource for RentalState
+  # BookResource - JSONAPI Resource for Book
   class BookResource < BaseResource
     attributes :title, :price
 

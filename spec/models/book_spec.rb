@@ -16,7 +16,6 @@ RSpec.describe Book, type: :model do
   end
 
   describe 'methods' do
-
   end
 
   describe 'factories' do

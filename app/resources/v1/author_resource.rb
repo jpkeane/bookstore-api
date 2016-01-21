@@ -1,5 +1,5 @@
 module V1
-  # RentalStateResource - JSONAPI Resource for RentalState
+  # Author - JSONAPI Resource for Author
   class AuthorResource < BaseResource
     attributes :name
 

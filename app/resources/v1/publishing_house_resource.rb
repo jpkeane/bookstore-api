@@ -1,5 +1,5 @@
 module V1
-  # RentalStateResource - JSONAPI Resource for RentalState
+  # PublishingHouseResource - JSONAPI Resource for PublishingHouse
   class PublishingHouseResource < BaseResource
     attributes :name, :discount
 

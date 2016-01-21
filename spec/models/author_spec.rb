@@ -15,7 +15,6 @@ RSpec.describe Author, type: :model do
   end
 
   describe 'methods' do
-
   end
 
   describe 'factories' do
