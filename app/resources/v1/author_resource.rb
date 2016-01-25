@@ -1,3 +1,4 @@
+# :reek:UncommunicativeModuleName
 module V1
   # Author - JSONAPI Resource for Author
   class AuthorResource < BaseResource

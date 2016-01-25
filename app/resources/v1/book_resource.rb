@@ -1,3 +1,4 @@
+# :reek:UncommunicativeModuleName
 module V1
   # BookResource - JSONAPI Resource for Book
   class BookResource < BaseResource

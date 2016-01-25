@@ -1,3 +1,4 @@
+# :reek:UncommunicativeModuleName
 module V1
   RSpec.describe AuthorResource do
     let :creatable_fields do

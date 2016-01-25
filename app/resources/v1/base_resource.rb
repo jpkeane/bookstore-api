@@ -1,3 +1,4 @@
+# :reek:UncommunicativeModuleName
 module V1
   # BaseResource - Base JSONAPI Resource for inheritance
   class BaseResource < JSONAPI::Resource

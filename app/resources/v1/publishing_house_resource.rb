@@ -1,3 +1,4 @@
+# :reek:UncommunicativeModuleName
 module V1
   # PublishingHouseResource - JSONAPI Resource for PublishingHouse
   class PublishingHouseResource < BaseResource
