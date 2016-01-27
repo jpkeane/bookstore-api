@@ -282,6 +282,7 @@
         null
       ],
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/resources/v1/author_resource.rb": [
+        null,
         1,
         null,
         1,
@@ -301,6 +302,7 @@
         null
       ],
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/resources/v1/base_resource.rb": [
+        null,
         1,
         null,
         1,
@@ -329,6 +331,7 @@
         null
       ],
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/resources/v1/book_resource.rb": [
+        null,
         1,
         null,
         1,
@@ -359,6 +362,7 @@
         null
       ],
       "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/resources/v1/publishing_house_resource.rb": [
+        null,
         1,
         null,
         1,
@@ -385,8 +389,10 @@
         1,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/books_controller.rb": [
+        null,
         1,
+        null,
         1,
         null,
         null
@@ -401,19 +407,23 @@
         1,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/authors_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/publishing_houses_controller.rb": [
+        null,
         1,
+        null,
         1,
         null,
         null
       ],
-      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/books_controller.rb": [
+      "/Volumes/USB Extension/Home/Development/Tutorials/ei_bookstore/bookstore-api/app/controllers/v1/authors_controller.rb": [
+        null,
         1,
+        null,
         1,
         null,
         null
       ]
     },
-    "timestamp": 1453417366
+    "timestamp": 1453876559
   }
 }

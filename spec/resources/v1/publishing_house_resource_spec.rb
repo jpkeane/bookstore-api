@@ -1,12 +1,12 @@
 # :reek:UncommunicativeModuleName
 module V1
-  RSpec.describe AuthorResource do
+  RSpec.describe PublishingHouseResource do
     let :creatable_fields do
-      [:name, :books, :published].sort
+      [:name, :discount, :published].sort
     end
 
     subject do
-      described_class.new Author.new, {}
+      described_class.new PublishingHouse.new, {}
     end
 
     it 'has the expected creatable attributes' do
