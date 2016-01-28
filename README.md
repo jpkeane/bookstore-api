@@ -21,11 +21,13 @@ API written for EmberIgniter bookstore Ember client.
 * rack-cors
 
 #### Dev and Test:
+
 * rspec-rails
 * factory_girl_rails
 * faker
 * rspec_api_documentation
 * rubocop
+* reek
 
 #### Test:
 * shoulda-matchers
